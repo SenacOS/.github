@@ -33,8 +33,8 @@ A comunidade é **pública e aberta**. Visitantes externos, recrutadores e profi
 <a href="https://github.com/SenacOS/Nutri-PI">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=SenacOS&repo=Nutri-PI&show_owner=true&bg_color=001F3D&title_color=F29111&text_color=CCCCCC&icon_color=F29111&border_color=005493"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SenacOS&repo=Nutri-PI&show_owner=true&bg_color=FFEAD2&title_color=005493&text_color=005493&icon_color=005493&border_color=005493"/>
+            srcset="https://senacos-stats.vercel.app/api/pin/?username=SenacOS&repo=Nutri-PI&show_owner=true&bg_color=001F3D&title_color=F29111&text_color=CCCCCC&icon_color=F29111&border_color=005493"/>
+    <img src="https://senacos-stats.vercel.app/api/pin/?username=SenacOS&repo=Nutri-PI&show_owner=true&bg_color=FFEAD2&title_color=005493&text_color=005493&icon_color=005493&border_color=005493"/>
   </picture>
 </a>
 
@@ -44,8 +44,8 @@ A comunidade é **pública e aberta**. Visitantes externos, recrutadores e profi
 <a href="https://github.com/SenacOS/Roupas_Angular-PI">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=SenacOS&repo=Roupas_Angular-PI&show_owner=true&bg_color=001F3D&title_color=F29111&text_color=CCCCCC&icon_color=F29111&border_color=005493"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SenacOS&repo=Roupas_Angular-PI&show_owner=true&bg_color=FFEAD2&title_color=005493&text_color=005493&icon_color=005493&border_color=005493"/>
+            srcset="https://senacos-stats.vercel.app/api/pin/?username=SenacOS&repo=Roupas_Angular-PI&show_owner=true&bg_color=001F3D&title_color=F29111&text_color=CCCCCC&icon_color=F29111&border_color=005493"/>
+    <img src="https://senacos-stats.vercel.app/api/pin/?username=SenacOS&repo=Roupas_Angular-PI&show_owner=true&bg_color=FFEAD2&title_color=005493&text_color=005493&icon_color=005493&border_color=005493"/>
   </picture>
 </a>
 
