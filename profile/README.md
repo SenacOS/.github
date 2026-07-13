@@ -1,6 +1,13 @@
 <div align="center">
 
-[![Banner SenacOS](./assets/logoSNC.png)](https://www.senac.br)
+<a href="https://www.senac.br">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logoSNCdark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/logoSNClight.png">
+    <!-- Imagem padrão caso o navegador não suporte a tag picture (fallback) -->
+    <img src="./assets/logoSNClight.png" alt="Banner SenacOS">
+  </picture>
+</a>
 
 [![Status](https://img.shields.io/badge/Status-Ativo-orange?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/SenacOS)
 [![Visitantes](https://komarev.com/ghpvc/?username=SenacOS-Dev&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/SenacOS)
