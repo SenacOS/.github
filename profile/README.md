@@ -4,8 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/logoSNCdark.png">
     <source media="(prefers-color-scheme: light)" srcset="./assets/logoSNClight.png">
-    <!-- Imagem padrão caso o navegador não suporte a tag picture (fallback) -->
-    <img src="./assets/logoSNClight.png" alt="Banner SenacOS">
+    <img src="./assets/logoSNCdark.png" alt="Banner SenacOS">
   </picture>
 </a>
 
