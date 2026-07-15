@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Dúvidas, Idéias ou Conversas
+    url: https://github.com/orgs/SenacOS/discussions
+    about: Se você não quer relatar um bug, mas sim tirar uma dúvida ou propor um debate, use nossa aba de Discussões!
