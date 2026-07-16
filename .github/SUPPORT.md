@@ -22,7 +22,7 @@ Comece pelo [`Template-Projeto-Academico`](https://github.com/SenacOS/Template-P
 Isso vai viver no repositório [`me-contrata`](https://github.com/SenacOS/me-contrata), assim que estiver disponível.
 
 ## 🚨 Comportamento inadequado ou violação do Código de Conduta?
-Não abra uma Issue pública para isso. Entre em contato diretamente e de forma reservada com um mantenedor/moderador da organização. Veja o [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) para mais contexto.
+Não abra uma Issue pública para isso. Entre em contato diretamente e de forma reservada com um mantenedor/moderador da organização. Veja o [`CODE_OF_CONDUCT.md`](https://github.com/SenacOS/.github/blob/main/.github/CODE_OF_CONDUCT.md) para mais contexto.
 
 ---
 
