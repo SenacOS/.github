@@ -25,9 +25,9 @@ Se você está subindo um trabalho de faculdade, use o repositório [`Template-P
 
 ## Código de Conduta
 
-Ao contribuir, você concorda em seguir o nosso [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md).
+Ao contribuir, você concorda em seguir o nosso [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md).
 
 ---
 
 📖 **Guia completo:** [GUIA-DE-CONTRIBUICAO.md](https://github.com/SenacOS/core/blob/main/GUIA-DE-CONTRIBUICAO.md)
-🆘 **Precisa de ajuda?** Veja [`SUPPORT.md`](./SUPPORT.md)
+🆘 **Precisa de ajuda?** Veja [`SUPPORT.md`](SUPPORT.md)
