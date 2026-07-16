@@ -19,6 +19,5 @@ Este é o repositório especial de configuração da organização SenacOS. Os a
 
 O guia detalhado de contribuição — modelo de membresia (contribuidor x membro), Teams por curso, nomenclatura de projetos acadêmicos e o ecossistema completo de repositórios — vive no repositório **[SenacOS/core](https://github.com/SenacOS/core)**.
 
-## ✏️ Editando estes arquivos
-
-⚠️ **Atenção:** Qualquer alteração aqui afeta toda a organização. Repositórios sem um arquivo próprio do mesmo tipo herdam automaticamente o que está neste repositório. Revise com atenção antes de dar merge.
+---
+*⚠️ **Atenção:** Qualquer alteração aqui afeta toda a organização. Repositórios sem um arquivo próprio do mesmo tipo herdam automaticamente o que está neste repositório. Revise com atenção antes de dar merge.*
