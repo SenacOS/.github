@@ -1,6 +1,6 @@
 # 🤝 Como Contribuir com a SenacOS
 
-Que bom que você quer contribuir! Este arquivo é o resumo rápido — o guia completo, com todos os detalhes, vive em [`SenacOS/core/GUIA-DE-CONTRIBUICAO.md`](https://github.com/SenacOS/core/blob/main/GUIA-DE-CONTRIBUICAO.md).
+Que bom que você quer contribuir! Este arquivo é o resumo rápido — o guia completo, com todos os detalhes, vive em [`SenacOS/core/GUIA-DE-CONTRIBUICAO.md`](https://github.com/SenacOS/core/blob/main/GUIA_DE_CONTRIBUICAO.md).
 
 ## Antes de começar
 
@@ -29,5 +29,17 @@ Ao contribuir, você concorda em seguir o nosso [`CODE_OF_CONDUCT.md`](https://g
 
 ---
 
-📖 **Guia completo:** [GUIA-DE-CONTRIBUICAO.md](https://github.com/SenacOS/core/blob/main/GUIA-DE-CONTRIBUICAO.md)
+<table width="100%">
+<tr>
+<td align="left">
+
+📖 **Guia completo:** [`GUIA-DE-CONTRIBUICAO.md`](https://github.com/SenacOS/core/blob/main/GUIA_DE_CONTRIBUICAO.md)
+
+</td>
+<td align="right">
+
 🆘 **Precisa de ajuda?** Veja [`SUPPORT.md`](https://github.com/SenacOS/.github/blob/main/.github/SUPPORT.md)
+
+</td>
+</tr>
+</table>
