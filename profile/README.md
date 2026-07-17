@@ -67,7 +67,7 @@ A comunidade é **pública e aberta**. Visitantes externos, recrutadores e profi
 
 ## 📖 Novo por aqui?
 
-Antes de criar seu primeiro repositório ou abrir seu primeiro Pull Request, dá uma olhada no nosso [**Guia de Contribuição e Navegação**](https://github.com/SenacOS/core/blob/main/GUIA-DE-CONTRIBUICAO.md). Lá você encontra a diferença entre contribuidor e membro (e como conseguir o 🏅 broche da org no seu perfil), como nomear seu projeto acadêmico, e o mapa completo dos repositórios da comunidade.
+Antes de criar seu primeiro repositório ou abrir seu primeiro Pull Request, dá uma olhada no nosso [**Guia de Contribuição e Navegação**](https://github.com/SenacOS/core/blob/main/GUIA_DE_CONTRIBUICAO.md). Lá você encontra a diferença entre contribuidor e membro (e como conseguir o 🏅 broche da org no seu perfil), como nomear seu projeto acadêmico, e o mapa completo dos repositórios da comunidade.
 
 > 🧭 Esta página é apenas o ponto de entrada — visite [`SenacOS/core`](https://github.com/SenacOS/core)
 
