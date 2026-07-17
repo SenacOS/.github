@@ -29,13 +29,6 @@ Somos uma **rede de apoio nacional independente** para estudantes de tecnologia 
 A comunidade é **pública e aberta**. Visitantes externos, recrutadores e profissionais da área são muito bem-vindos para explorar, acompanhar e utilizar os projetos como material de estudo. O que construímos aqui, construímos para todo mundo.
 
 ---
-## 📖 Novo por aqui?
-
-Antes de criar seu primeiro repositório ou abrir seu primeiro Pull Request, dá uma olhada no nosso [**Guia de Contribuição e Navegação**](https://github.com/SenacOS/core/blob/main/GUIA-DE-CONTRIBUICAO.md). Lá você encontra a diferença entre contribuidor e membro (e como conseguir o 🏅 broche da org no seu perfil), como nomear seu projeto acadêmico, e o mapa completo dos repositórios da comunidade.
-
-> 🧭 Esta página é apenas o ponto de entrada — visite [`SenacOS/core`](https://github.com/SenacOS/core)
-
----
 
 ## 📌 Projetos Acadêmicos em Destaque
 
@@ -69,6 +62,14 @@ Antes de criar seu primeiro repositório ou abrir seu primeiro Pull Request, dá
 </div>
 
 > 💡 Quer ver todos os projetos? Acesse a aba de [`repositórios da organização`](https://github.com/orgs/SenacOS/repositories)
+
+---
+
+## 📖 Novo por aqui?
+
+Antes de criar seu primeiro repositório ou abrir seu primeiro Pull Request, dá uma olhada no nosso [**Guia de Contribuição e Navegação**](https://github.com/SenacOS/core/blob/main/GUIA-DE-CONTRIBUICAO.md). Lá você encontra a diferença entre contribuidor e membro (e como conseguir o 🏅 broche da org no seu perfil), como nomear seu projeto acadêmico, e o mapa completo dos repositórios da comunidade.
+
+> 🧭 Esta página é apenas o ponto de entrada — visite [`SenacOS/core`](https://github.com/SenacOS/core)
 
 ---
 
