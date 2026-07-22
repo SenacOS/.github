@@ -1,4 +1,4 @@
-# SenacOS / .github
+# SenacOS · .github
 
 Este é o repositório especial de configuração da organização SenacOS. Os arquivos aqui não são exibidos como parte de um projeto — eles funcionam como padrão automático para qualquer outro repositório da organização que não tenha sua própria versão de um arquivo equivalente.
 
