@@ -8,9 +8,9 @@
   </picture>
 </a>
 
-[![Status](https://img.shields.io/badge/Status-Ativo-orange?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/SenacOS)
-[![Visitantes](https://komarev.com/ghpvc/?username=SenacOS-Dev&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/SenacOS)
-[![Cultura](https://img.shields.io/badge/Cultura-Open%20Collaboration-blueviolet?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/SenacOS)
+[![Status](https://img.shields.io/badge/Status-Ativo-orange?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/SenacOS/core/blob/main/GUIA_DE_CONTRIBUICAO.md#7-ecossistema-de-reposit%C3%B3rios-mapa-da-organiza%C3%A7%C3%A3o)
+[![Visitantes](https://komarev.com/ghpvc/?username=SenacOS-Dev&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/SenacOS/core/blob/main/GUIA_DE_CONTRIBUICAO.md#1-modelo-de-membresia-contribuidor-x-membro)
+[![Cultura](https://img.shields.io/badge/Cultura-Open%20Collaboration-blueviolet?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/SenacOS/core/blob/main/GUIA_DE_CONTRIBUICAO.md#8-metodologia--integridade-do-ecossistema)
 
 </div>
 
