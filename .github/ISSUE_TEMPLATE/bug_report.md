@@ -1,5 +1,5 @@
 ---
-name: 🐛 Relatar um Bug
+name: Relatar um Bug
 about: Crie um relatório para nos ajudar a identificar e corrigir um erro.
 title: '[BUG] '
 labels: ['bug']
