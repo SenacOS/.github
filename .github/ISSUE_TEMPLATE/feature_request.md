@@ -1,5 +1,5 @@
 ---
-name: ✨ Sugerir Funcionalidade
+name: Sugerir Funcionalidade
 about: Proponha uma nova ideia, melhoria de design ou funcionalidade para o projeto.
 title: '[FEATURE] '
 labels: ['enhancement']
