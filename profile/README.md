@@ -78,4 +78,4 @@ Antes de criar seu primeiro repositório ou abrir seu primeiro Pull Request, dá
 *Da comunidade para a comunidade.*
 *Feito por e para estudantes do Senac*
 
-</div>
+</div> 
