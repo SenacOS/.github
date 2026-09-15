@@ -1,5 +1,5 @@
-# 🔒 Política de Segurança
-
+# Política de Segurança
+> **Aviso:** Esta política estabelece as diretrizes gerais de segurança da SenacOS, mas pode ser complementada por políticas ou procedimentos específicos de cada repositório ou projeto.
 A SenacOS leva a segurança dos seus projetos a sério. Agradecemos a colaboração da comunidade em identificar e reportar vulnerabilidades de forma responsável.
 
 ## Versões Suportadas
@@ -47,4 +47,4 @@ Esta política cobre os repositórios sob a organização [SenacOS](https://gith
 
 ---
 
-Obrigado por ajudar a manter a SenacOS e sua comunidade seguras! 🙏
+Obrigado por ajudar a manter a SenacOS e sua comunidade seguras!
