@@ -1,4 +1,5 @@
-# 📜 Código de Conduta da Comunidade SenacOS
+# Código de Conduta da Comunidade SenacOS
+> **Aviso:** Este Código de Conduta estabelece as diretrizes de convivência da comunidade SenacOS e não substitui as normas, políticas ou regulamentos oficiais do Senac.
 
 ## Nosso Compromisso
 
