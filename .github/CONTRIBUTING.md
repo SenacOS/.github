@@ -1,4 +1,4 @@
-# 🤝 Como Contribuir com a SenacOS
+# Como Contribuir com a SenacOS
 
 Que bom que você quer contribuir! Este arquivo é o resumo rápido — o guia completo, com todos os detalhes, vive em [`SenacOS/core/GUIA-DE-CONTRIBUICAO.md`](https://github.com/SenacOS/core/blob/main/GUIA_DE_CONTRIBUICAO.md).
 
@@ -17,7 +17,7 @@ Que bom que você quer contribuir! Este arquivo é o resumo rápido — o guia c
 
 ## Reportando problemas ou sugerindo ideias
 
-Use os templates de Issue disponíveis (`🐛 Relato de Bug` / `✨ Sugestão de Funcionalidade`). Se sua dúvida for geral e não um problema específico, prefira abrir uma conversa em [`SenacOS/comunidade` (Discussions)](https://github.com/SenacOS/comunidade/discussions) em vez de uma Issue.
+Use os templates de Issue disponíveis (`Relato de Bug` / `Sugestão de Funcionalidade`). Se sua dúvida for geral e não um problema específico, prefira abrir uma conversa em [`SenacOS/comunidade` (Discussions)](https://github.com/SenacOS/comunidade/discussions) em vez de uma Issue.
 
 ## Hospedando um projeto acadêmico
 
