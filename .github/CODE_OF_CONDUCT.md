@@ -5,7 +5,7 @@
 
 A SenacOS existe para que estudantes de tecnologia do Senac Brasil — de qualquer curso, unidade ou nível de experiência — tenham um espaço seguro para aprender, colaborar e construir portfólio. Para que isso funcione, nos comprometemos a manter uma comunidade livre de assédio para todos, independentemente de idade, corpo, deficiência, etnia, identidade e expressão de gênero, nível de experiência, formação, nacionalidade, aparência pessoal, raça, religião ou orientação sexual.
 
-Isso vale para todos os espaços da organização: repositórios de código, Issues, Pull Requests, Discussions (fórum), o repositório `me-contrata` e qualquer interação em nome da SenacOS.
+Isso vale para todos os espaços da organização: repositórios de código, Issues, Pull Requests, Discussions (fórum), o repositório [`mural-talentos`](https://github.com/SenacOS/mural-talentos) e qualquer interação em nome da SenacOS.
 
 ## Nossos Padrões
 
