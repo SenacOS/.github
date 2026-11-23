@@ -3,8 +3,8 @@
 <a href="https://www.senac.br">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/senacos-banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/senacos-banner-peach.svg">
-    <img src="./assets/senacos-banner-white.svg" alt="Banner SenacOS" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/senacos-banner-white.svg">
+    <img src="./assets/senacos-banner-peach.svg" alt="Banner SenacOS" width="100%">
   </picture>
 </a>
 
